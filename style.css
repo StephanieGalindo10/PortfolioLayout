@@ -1,11 +1,9 @@
-// Variables
 $red: #ad0000;
 
-// Placeholder selectors
+///Placeholder selectors
 %transition {
   transition: all .25s;
 }
-
 /*=Typography=*/
 
 html {
